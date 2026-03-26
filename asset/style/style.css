@@ -48,3 +48,8 @@ button {
   margin: 200px;
   gap: 3rem;
 }
+
+.btn4 {
+  background-color: aqua;
+  color: #000;
+}
