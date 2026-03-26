@@ -24,22 +24,22 @@ button {
   border-radius: 80px;
 }
 
-.btn1{
+.btn1 {
   background-color: #c35555;
   color: #000;
 }
 
-.btn2{
+.btn2 {
   background-color: #140202;
   color: #fff;
 }
 
-.btn3{
+.btn3 {
   background-color: #a6c355;
   color: #fff;
 }
 
-.btn{
+.btn {
   display: flex;
   text-align: center;
   align-items: center;
